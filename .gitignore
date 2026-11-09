@@ -1,0 +1,17 @@
+# Visual Studio spezifische Dateien
+.vs/
+*.user
+*.suo
+*.db
+*.cache
+
+# Build-Ordner
+bin/
+obj/
+Debug/
+Release/
+
+# Windows-Dateien
+Thumbs.db
+desktop.ini
+

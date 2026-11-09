@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="MultiInput/MultiInput.vcxproj" Id="a86b29db-0f41-4f54-b52b-3c3742a01ded" />
+</Solution>
