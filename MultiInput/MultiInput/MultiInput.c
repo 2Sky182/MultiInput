@@ -995,7 +995,7 @@ static unsigned __stdcall SenderThread(void* arg)
                         count * sizeof(MousePacket)))
                     break;
 
-                Sleep(1000); // ca. 1000 Updates per second
+                Sleep(1000); // ca. 1 Update per second
             }
         }
 
