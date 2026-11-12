@@ -24,6 +24,8 @@ MANUAL – Bedienungsanleitung
 	 funktioniert nur, wenn sie über MousemuxOverlay.exe gestartet wird.
 	 
 ------------------------------------ACHTUNG------------------------------------------
+
 Das Programm funktioniert nicht in virtuellen Maschinen, es wird lediglich der Cursor 
 versteckt ohne einen neuen zu rendern.
+
 ------------------------------------ACHTUNG------------------------------------------
