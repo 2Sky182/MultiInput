@@ -22,6 +22,8 @@ MANUAL – Bedienungsanleitung
 	-Unterstützt werden Betriebssysteme ab Windows 10.
 	-Die Datei MultiInput.exe ist theoretisch nicht eigenständig ausführbar. Sie 
 	 funktioniert nur, wenn sie über MousemuxOverlay.exe gestartet wird.
+    -Das Overlay kann zwar auch ohne Administratorrechte ausgeführt werden,
+     kann aber zu Problemen bei der Cursorverwaltung führen(z.B. im TaskManager)
 	 
 ------------------------------------ACHTUNG------------------------------------------
 
