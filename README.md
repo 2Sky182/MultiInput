@@ -13,7 +13,7 @@ MANUAL – Bedienungsanleitung
 2. Bedienung
 	Nach dem Start der Benutzeroberfläche stehen Ihnen folgende Funktionen 
 	zur Verfügung:
-	-Multiinput.exe stoppen/starten: Über diesen Button können Sie das Programm 
+	-MultiInput.exe stoppen/starten: Über diesen Button können Sie das Programm 
 	 anhalten und anschließend wieder starten.
 	-Hide Cursor: Über das Feld in der unteren rechten Ecke können Sie den nativen 
 	 Windows-Mauszeiger ein- oder ausblenden.
